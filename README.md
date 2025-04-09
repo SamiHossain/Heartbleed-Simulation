@@ -15,6 +15,8 @@ This project is for educational purposes only.
 
 1. Clone the Repository
 
+You may need to delete the current server.crt and server.key and generate your own
+
 2. Install Dependencies
 Ensure you have Python 3.x installed. Then install the required libraries:
 
